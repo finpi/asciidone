@@ -1,2 +1,5 @@
 = Start as you mean to go on
 
+A project to mash up org-mode and asciidoc
+
+
